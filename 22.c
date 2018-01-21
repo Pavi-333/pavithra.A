@@ -21,5 +21,5 @@ else
 {
 temp=a[j];
 }
-printf(" themaximum is",temp);
+printf(" the minimum is",temp);
 }
