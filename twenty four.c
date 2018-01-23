@@ -25,8 +25,6 @@ a[j]=temp;
 }
 for(i=0;i<=size;i++)
 {
-if(a[i]==a[n%2]
-   {
-     printf(" the middle element is",a[i]);
+print(" the num is",a[i]);
 }
 }
